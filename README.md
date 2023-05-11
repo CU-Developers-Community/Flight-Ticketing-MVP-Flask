@@ -1,6 +1,6 @@
-# AIRPLANE TICKETING DEMO 
+# AIRPLANE TICKETING MVP 
  
-`AIRPLANE TICKETING DEMO`  contains a working example of a Flask project with features:
+`AIRPLANE TICKETING MVP`  contains a working example of a Flask project with features:
 
 - 🍾  Ready to ship Flask project template
 - 🤖 **Database migrations** out-of-the-box (uses Alembic)
